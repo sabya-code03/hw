@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+footer{
+    position: fixed;
+
+}
+ul{
+    justify-content: space-between;
+    display: flex;
+    list-style-type: square;
+    font-style: italic;
+}
+section{
+    font-size: 25px;
+    font-weight: 900;
+    font-style: oblique;
+    color: blue;
+}
